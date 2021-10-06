@@ -8,7 +8,6 @@
   - level 3
     - level 4
 * Getting Started in ORG MODE
-*** This is NICE
  + Unordered list item with either ('+'|'-')
    1. Ordered list with Numbers Ofc .
 * Motion
