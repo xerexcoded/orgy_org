@@ -1,6 +1,7 @@
 #+TITLE: Org Basics
 #+DESCRIPTION: My first org document
 #+AUTHOR: Arnav Banerjee
+#+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
 [[./meditate.png]]
 
 * A Headline
