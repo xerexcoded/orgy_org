@@ -1,0 +1,54 @@
+#+TITLE: Org Basics
+#+DESCRIPTION: My first org document
+#+AUTHOR: Arnav Banerjee
+
+
+* A Headline
+** level 2
+*** level 3
+**** level 4
+
+
+* Getting Started in ORG MODE
+** This is NICE
+ + Unordered list item with either ('+'|'-')
+   1. Ordered list with Numbers Ofc .
+* Motion
+** move h/j/k/l
+** next/prev heading : gj/gk or CTRL-j/k
+** move parent/child element : gh/gl
+* Structure Editing
+** insert new heading after subtree : CTRL-RET
+** promote/demote heading : M-h/l
+** promote/demote current subtree : M-S-h/l
+** move subtree item up/down : M-j/k
+** move list item up/down but not subtree : M-S-j/k
+* SOME ADVANCED EDITING < COS WE ARE EVIL
+** select an element : vae
+** delete an element : dae
+** select a subtree : vaR
+** delete subtree : daR
+** yank subtree : yiR
+* Insert Snippets
+** SPC-i-s
+#+begin_src haskell
+import System.Environment
+main :: IO ()
+main = do
+  [file] <- getArgs
+  content <- readFile file
+  putStrLn content
+#+end_src
+
+** #!/usr/bin/env bash
+
+** Wed Oct  6 21:09:48 2021
+** arnavbanerjee61@gmail.com
+* TODO
+** TODO first thing
+** TODO second thing
+** to remove TODO : S-left
+** toggle the todo state : SPC-m-t
+** THIS is a image I guess
+** #+attr_html: https://media.giphy.com/media/CxCsN7IWwoucw/giphy.gif :alt  :align left :class img
+[[src][title]] WOW
