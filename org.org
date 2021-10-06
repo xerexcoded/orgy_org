@@ -1,7 +1,7 @@
 #+TITLE: Org Basics
 #+DESCRIPTION: My first org document
 #+AUTHOR: Arnav Banerjee
-[[meditate.png]]
+[[./meditate.png]]
 
 * A Headline
 - level 2

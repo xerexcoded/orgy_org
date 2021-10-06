@@ -1,19 +1,20 @@
 
 # Table of Contents
 
-1.  [A Headline](#orgd2a10ed)
-2.  [Getting Started in ORG MODE](#org4080607)
-        1.  [This is NICE](#org6be0aec)
-3.  [Motion](#orge7e98bc)
-4.  [Structure Editing](#org4101819)
-5.  [SOME ADVANCED EDITING < COS WE ARE EVIL](#org16e7115)
-6.  [Insert Snippets](#orgbc3088e)
-7.  [TODO](#org003d9f9)
-8.  [To create a checkbox : -[]](#orgfad9f68)
+1.  [A Headline](#orgb32d4f2)
+2.  [Getting Started in ORG MODE](#orgb67fb02)
+        1.  [This is NICE](#org08769ac)
+3.  [Motion](#orgf751d33)
+4.  [Structure Editing](#org8746e83)
+5.  [SOME ADVANCED EDITING < COS WE ARE EVIL](#orgf38bff2)
+6.  [Insert Snippets](#org950f825)
+7.  [TODO](#orgadbe94f)
+8.  [To create a checkbox : -[]](#orgdd8bdb7)
+
+![img](./meditate.png)
 
 
-
-<a id="orgd2a10ed"></a>
+<a id="orgb32d4f2"></a>
 
 # A Headline
 
@@ -22,12 +23,12 @@
         -   level 4
 
 
-<a id="org4080607"></a>
+<a id="orgb67fb02"></a>
 
 # Getting Started in ORG MODE
 
 
-<a id="org6be0aec"></a>
+<a id="org08769ac"></a>
 
 ### This is NICE
 
@@ -35,7 +36,7 @@
     1.  Ordered list with Numbers Ofc .
 
 
-<a id="orge7e98bc"></a>
+<a id="orgf751d33"></a>
 
 # Motion
 
@@ -44,7 +45,7 @@
 -   move parent/child element : gh/gl
 
 
-<a id="org4101819"></a>
+<a id="org8746e83"></a>
 
 # Structure Editing
 
@@ -55,7 +56,7 @@
 -   move list item up/down but not subtree : M-S-j/k
 
 
-<a id="org16e7115"></a>
+<a id="orgf38bff2"></a>
 
 # SOME ADVANCED EDITING < COS WE ARE EVIL
 
@@ -66,7 +67,7 @@
 -   yank subtree : yiR
 
 
-<a id="orgbc3088e"></a>
+<a id="org950f825"></a>
 
 # Insert Snippets
 
@@ -80,7 +81,7 @@
       putStrLn content
 
 
-<a id="org003d9f9"></a>
+<a id="orgadbe94f"></a>
 
 # TODO
 
@@ -92,7 +93,7 @@
 -   
 
 
-<a id="orgfad9f68"></a>
+<a id="orgdd8bdb7"></a>
 
 # To create a checkbox : -[]
 
