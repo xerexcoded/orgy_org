@@ -49,4 +49,9 @@ main = do
 + [ ] SLEEP
 + [X] EAT
 * Tables
-+
++ Lets add a table eh ?
+    | NAME  | AGE |
+    |-------+-----|
+    | Arnav |  20 |
+    | Xerex |  20 |
+    | YOU   | idk |
