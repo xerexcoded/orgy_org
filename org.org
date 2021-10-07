@@ -4,31 +4,31 @@
 #+HTML_HEAD: <link rel="stylesheet" href="https://sandyuraz.com/styles/org.min.css">
 [[./meditate.png]]
 
-* A Headline
-- level 2
-  - level 3
-    - level 4
-* Getting Started in ORG MODE
+* /A Headline/
++ /level 2/
+  + level 3
+    + level 4
+* Getting Started in /ORG MODE/
  + Unordered list item with either ('+'|'-')
    1. Ordered list with Numbers Ofc .
 * Motion
-- move h/j/k/l
-- next/prev heading : gj/gk or CTRL-j/k
-- move parent/child element : gh/gl
++ move h/j/k/l
++ next/prev heading : gj/gk or CTRL-j/k
++ move parent/child element : gh/gl
 * Structure Editing
-- insert new heading after subtree : CTRL-RET
-- promote/demote heading : M-h/l
-- promote/demote current subtree : M-S-h/l
-- move subtree item up/down : M-j/k
-- move list item up/down but not subtree : M-S-j/k
++ insert new heading after subtree : CTRL-RET
++ promote/demote heading : M-h/l
++ promote/demote current subtree : M-S-h/l
++ move subtree item up/down : M-j/k
++ move list item up/down but not subtree : M-S-j/k
 * SOME ADVANCED EDITING < COS WE ARE EVIL
-- select an element : vae
-- delete an element : dae
-- select a subtree : vaR
-- delete subtree : daR
-- yank subtree : yiR
++ /select an element/ : vae
++ /delete an element/ : dae
++ /select a subtree/ : vaR
++ /delete subtree/ : daR
++ /yank subtree/ : yiR
 * Insert Snippets
-- SPC-i-s
++ SPC-i-s
 #+begin_src haskell
 import System.Environment
 main :: IO ()
@@ -39,12 +39,14 @@ main = do
 #+end_src
 
 * TODO
-- [ ] first thing
-- [ ] second thing
-- to remove TODO : S-left
-- toggle the todo state : SPC-m-t
-- THIS is a image I guess
--
++ [ ] first thing
++ [X] second thing
++ to remove TODO : S-left
++ toggle the todo state : SPC-m-t
++ THIS is a image I guess
+
 * To create a checkbox : -[]
-- [ ] SLEEP
-- [ ] EAT
++ [ ] SLEEP
++ [X] EAT
+* Tables
++
