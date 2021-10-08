@@ -39,7 +39,7 @@ main = do
 #+end_src
 
 * TODO
-+ [ ] first thing
++ [X] first thing
 + [X] second thing
 + to remove TODO : S-left
 + toggle the todo state : SPC-m-t
@@ -55,3 +55,22 @@ main = do
     | Arnav |  20 |
     | Xerex |  20 |
     | YOU   | idk |
++ GO forward/backeard in cell : TAB/S-TAB
++ Make org table headline : SPC m b -
++ duplicate a cell below : S-RET
++ Another Table :
+  | Operating System | Window Manger |
+  |------------------+---------------|
+  | Arch Linux       | Sway          |
+  |                  |               |
+  | Void Linux       | xfwm4/i3      |
+
+* Table Motion :
++ Move one row up : M-k
++ Move one row down : M-j
++ Move one column left : M-h
++ Move one column right : M-l
++ Insert new column  : M-S-l
++ Delete current colum : M-S-h
++ Insert new row : M-S-j
++ Delete current row : M-S-k
