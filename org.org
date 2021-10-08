@@ -45,7 +45,7 @@ main = do
 + toggle the todo state : SPC-m-t
 + THIS is a image I guess
 
-* To create a checkbox : -[]
+* To create a checkbox : -[] [1/2] [50%]
 + [ ] SLEEP
 + [X] EAT
 * Tables
